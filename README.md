@@ -1,4 +1,4 @@
-# hooks
+# sxmo-hooks
 
 # desktop_widget
 The desktop widget time and date format can be changed to am/pm format.
